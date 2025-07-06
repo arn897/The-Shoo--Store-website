@@ -3,11 +3,8 @@
 
 Shoo Store is a modern and responsive shoe e-commerce front-end website built using **HTML, CSS, and JavaScript**. It features an interactive product slider, real-time UI updates for product colors and sizes, and a sleek design that mimics a real-world shopping experience.
 
-
 ## 🚀 Live Demo
-
-
-<!-- [Live Website](https://the-shoo-store-website.onrender.com))
+[Click here to view The Shoo Store website](https://the-shoo-store-website.onrender.com)
 
 ## ✨ Features
 
